@@ -1,0 +1,14 @@
+layout_spectrum: 0.7136592
+typography_spectrum: 0.4035088
+color:
+  saturation: 0.233166
+  lightness: 0.06215725
+  brandStrength: 0.3330741
+  rhythmicContrast: 0.393855
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: AmawtaLab
