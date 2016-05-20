@@ -1,14 +1,28 @@
+name: AmawtaLab
+favicon: null
 layout_spectrum: 0.7136592
 typography_spectrum: 0.4035088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.233166
-  lightness: 0.06215725
-  brandStrength: 0.3330741
-  rhythmicContrast: 0.393855
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-name: AmawtaLab
+    - '#ffffff'
+    - '#fc2a1c'
+    - '#6a6a6a'
+    - '#000000'
+    - '#bdbdbd'
+  brandStrength: 0.3330741
+  lightness: 0.06215725
+  saturation: 0.233166
+  rhythmicContrast: 0.393855
+purpose: []
